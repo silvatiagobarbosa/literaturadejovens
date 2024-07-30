@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projetosdeestudos",
+  "private_key_id": "2354bdcc91b4805a7f8af446f17e3fe39538d205",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCj/+KjqOYGqU2V\nVY8GtbAdxQ/+Se6WP7/0I3rjCbNoPTCHfLzrfl8BkTbgRHewDk2z9F210AkYWtql\nWKQ5+jVrcL9sv1YYYMMAVZnYj5oUoHm/mf/cTP2hjhMfMpD8vSeU+yu9ywcFOk6a\nQsnqWsZ/LAIysKwYldu1t0bnYHny7m1Tz5QsEJXkawN+a695RZDqp+kciri5IEv0\nzBKPo/0GBM4/UaWo2B1y+3eaiWsLXYlSaxhN+nfUYFMG2IDTNDHm5lkhek5sIXzi\nUU0WMGfM2YIOzWO/pVjzaSXns7m4QXY6RyuVzFSwMCKGhqyifwtwyNf8xTelm1hv\nfsX/2rPHAgMBAAECggEAJTteGjaphkCgfvMuJeFQqumGsH3bXxv4+bWmW+3jX5po\nrpG4mCQX8JSlpzOUEpGkvWKQdcrVjcRumBQwMINn5kzyAH/NzXoGO0izxTEQ03b9\nPOz64+pMuIU3PSFvPhm5Zz7AlvWFUgADQU1BZuWV4+A7XYOzhl9bQn1p6PSDqw1t\nsQcO8/ydchZFk1xwVGOmBs57L5UBdlDpFwqdLdcQ7ELqhyYlNZYvU/kfx9lvPAcK\nvDBrMLpAondT7SuvLlKZ770+c7CLabwVz9++mebOmL4dS3fRQdwkIj3AxWNWJ5ek\nqBtsHVcpszxtRiUAAlX03gGGXc1dcd4xi1wZHFFfWQKBgQDgskLu12Xydu81kC+n\n7yo6CoT8JKCdXcwyIvZnsZxNsqg47a/XSYtbiHWF4AZdhyCaORU4CtUQTWf1cwkI\nSt9nAX3VO+LmZJF1E2RjXhgrSea6p3NuijI2x+kj8JRpw/KrgHWOsDzPR8rT7Sq7\n9f2OqQ8x14oEvuaiCjXYgx0ATwKBgQC62ONoV9k3XstlkKr2Sxt2FFbjVPqHfbvz\nEo9rhinGK2utNVVwiQAfjqcEu6ts4bR+hBII4hrk1cQPoB6UAHniYpZxhZ3A7aZ9\n/0ya0X4LZWJ/P7CGsP2mmSOKz6QmmdDs6yWrTWCH3rguAnUeV2wsm/sPWJq/kKxg\nrs/6dkn/CQKBgQCscgMOfL9gE0lIyWzZrKKywsoHHTErNQZ24ABN2rDDrL6QWlKe\nnnHWgOb5JNKdywwJcI/JX/7fMRj89hlThOrpieqB0SE1gq9js8tSu68+4cuzKrpb\ndrJM+qYCECxG87x1RPRz2uwAhO+0MAuhD4xWhYcE0I+7TquAZuemUBHc3wKBgAZ+\nn3jzBMPd8af4HVkuRygVkOeZ/pNTFYNfc8jDAxS2UanVnsCoom52YOvTMiQ4vDNh\nl9bjNRgbLhN091shoRrzXlNX16HrIMxkYV9IRN9UiNXves1TvZ1a2Vdr3ELTOeXi\nTo7jw6U1YqWGxFdnpoTubw2bgNWDy9oYeXY1QmExAoGAM+Owibq+MAFLnW7FuBEn\namMe/i55zmss2Bo2wOVBJTPGqbuCOe98rzD0LytR4FFBg46zemo7xOJr7jpMivJ7\nH+6DlJ4w/ZlhLlp2BlegeJ8NXCv6msmvPtSLTv9BS63l7/J1aEplnHIPsWEqdINF\naVq5uCw2IQl+nLme1tTJZ/o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-analytics@projetosdeestudos.iam.gserviceaccount.com",
+  "client_id": "118330423710402115523",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-analytics%40projetosdeestudos.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
